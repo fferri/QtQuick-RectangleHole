@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RectangleHole.qml</file>
+    </qresource>
+</RCC>
